@@ -20,11 +20,11 @@
 		FFF3509314D6B1F40014105E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FFF3509514D6B1F40014105E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FFF3509714D6B1F40014105E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FFF3509B14D6B1F50014105E /* GITTest-Info.plist */ = {isa = PBXFileReference; path = "GITTest-Info.plist"; sourceTree = "<group>"; };
+		FFF3509B14D6B1F50014105E /* GITTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GITTest-Info.plist"; sourceTree = "<group>"; };
 		FFF3509D14D6B1F50014105E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FFF3509F14D6B1F50014105E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FFF350A114D6B1F50014105E /* GITTest-Prefix.pch */ = {isa = PBXFileReference; path = "GITTest-Prefix.pch"; sourceTree = "<group>"; };
-		FFF350A214D6B1F50014105E /* EBAppDelegate.h */ = {isa = PBXFileReference; path = EBAppDelegate.h; sourceTree = "<group>"; };
+		FFF350A114D6B1F50014105E /* GITTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GITTest-Prefix.pch"; sourceTree = "<group>"; };
+		FFF350A214D6B1F50014105E /* EBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EBAppDelegate.h; sourceTree = "<group>"; };
 		FFF350A314D6B1F50014105E /* EBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EBAppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
